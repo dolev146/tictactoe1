@@ -14,9 +14,6 @@ python main.py
 <img src="/images/preview.gif">
 </p>
 
-## Screenshots
-<p align="center">
-<img width=1000 src="/images/screenshot.png">
 
 </p>
 
