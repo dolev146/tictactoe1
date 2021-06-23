@@ -1,6 +1,6 @@
-# Author: aqeelanwar
+# Author: dolev dublon
 # Created: 12 March,2020, 7:06 PM
-# Email: aqeel.anwar@gatech.edu
+# Email: dolev146@gmail.com
 
 from tkinter import *
 import numpy as np
